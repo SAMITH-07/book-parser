@@ -20,10 +20,6 @@ Book_Parser/
 ├── level1.py          # Level 1 scraping
 ├── level2.py          # Advanced Selenium scraping with pagination
 ├── level3.py          # LinkedIn automation
-├── streamlit_app.py   # Streamlit web interface
-├── linkedin_simple.py # Command-line LinkedIn automation
-├── add_to_basket.py   # Add to basket functionality test
-├── scrape_after_add_basket.py # Scrape after add to basket click
 ├── requirements.txt   # Python dependencies
 ├── books_selenium.json # Scraped data output
 └── README.md          # This file
